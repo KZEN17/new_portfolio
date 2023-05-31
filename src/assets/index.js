@@ -29,6 +29,8 @@ import tesla from "./company/tesla.png";
 import ecomm from "./ecomm.png";
 import blog from "./blog.png";
 import shareit from "./shareit.png";
+import truopd from "./truopd.png";
+import metameet from "./metameet.png";
 
 export {
   logo,
@@ -59,4 +61,6 @@ export {
   ecomm,
   blog,
   shareit,
+  truopd,
+  metameet,
 };

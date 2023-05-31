@@ -19,6 +19,8 @@ import {
   blog,
   shareit,
   flutter,
+  truopd,
+  metameet,
 } from "../assets";
 
 export const navLinks = [
@@ -257,6 +259,44 @@ const projects = [
     ],
     image: shareit,
     source_code_link: "https://github.com/KZEN17/shareit-app",
+  },
+  {
+    name: "TruOpd",
+    description:
+      "Our telemedicine Flutter Firebase app is a game-changer in healthcare. It offers video calling, digital prescriptions, and integrated payments, ensuring convenient and secure remote consultations. Powered by Firebase, it guarantees data privacy and scalability, revolutionizing the way we access healthcare.",
+    tags: [
+      {
+        name: "flutter",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Firebase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "stripe",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: truopd,
+    source_code_link: "",
+  },
+  {
+    name: "MetaMeet",
+    description:
+      "Metameet is an innovative social media platform tailored for gamers. Packed with features, it provides a unique space for gamers to connect, collaborate, and compete. With Metameet, users can engage in video calls, share gaming experiences, and join multiplayer sessions seamlessly. The platform also supports integrated payments, allowing gamers to trade in-game items and services securely. Powered by cutting-edge technology, Metameet ensures a user-friendly interface and a vibrant gaming community, redefining the social media experience for gamers.",
+    tags: [
+      {
+        name: "Flutter",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Firebase",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: metameet,
+    source_code_link: "https://github.com/KZEN17/",
   },
 ];
 
