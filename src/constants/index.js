@@ -21,6 +21,8 @@ import {
   flutter,
   truopd,
   metameet,
+  github_finder,
+  feedback,
 } from "../assets";
 
 export const navLinks = [
@@ -217,6 +219,33 @@ const projects = [
     ],
     image: ecomm,
     source_code_link: "https://github.com/KZEN17/ecommerce_nextjs",
+    link: "https://ecommerce-next-sand.vercel.app/",
+  },
+  {
+    name: "Github Finder App",
+    description:
+      "Small React App that uses the github API. Searching users, displaying users info, displaying users repositories are only few of the options. All links work perfect. Used DaisyUI for the UI.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Github API",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "DaisyUI",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: github_finder,
+    source_code_link: "https://github.com/KZEN17/github-finder-app",
+    link: "https://github-finder-app-kzen.vercel.app/",
   },
   {
     name: "Amazing Blog Website",
@@ -238,7 +267,9 @@ const projects = [
     ],
     image: blog,
     source_code_link: "https://github.com/KZEN17/blog-nextjs-graphql",
+    link: "https://kzen-blog.vercel.app/",
   },
+
   {
     name: "Share It",
     description:
@@ -259,6 +290,7 @@ const projects = [
     ],
     image: shareit,
     source_code_link: "https://github.com/KZEN17/shareit-app",
+    link: "https://shareit-app.netlify.app/",
   },
   {
     name: "TruOpd",
@@ -297,6 +329,25 @@ const projects = [
     ],
     image: metameet,
     source_code_link: "https://github.com/KZEN17/",
+  },
+  {
+    name: "Feedback App",
+    description:
+      "Small React Feedback App that users can leave feedback for a service. Does not have a backend as its just for display. All data is saved in state. Used Tailwind for the UI.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: feedback,
+    source_code_link: "https://github.com/KZEN17/feedback-app",
+    link: "https://react-feed-app.netlify.app/",
   },
 ];
 

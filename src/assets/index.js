@@ -31,6 +31,8 @@ import blog from "./blog.png";
 import shareit from "./shareit.png";
 import truopd from "./truopd.png";
 import metameet from "./metameet.png";
+import github_finder from "./github_finder.png";
+import feedback from "./feedback.png";
 
 export {
   logo,
@@ -63,4 +65,6 @@ export {
   shareit,
   truopd,
   metameet,
+  github_finder,
+  feedback,
 };
