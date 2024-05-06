@@ -108,6 +108,18 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Frontend Software Engineer",
+    company_name: "Eeze Gaming",
+    icon: reactjs,
+    iconBg: "#E6DEDD",
+    date: "March 2018 - Present",
+    points: [
+      "Developing and maintaining web applications using React.js, Vite, Typescript and other related technologies.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  },  {
     title: "React.js Developer",
     company_name: "Upwork",
     icon: upwork,
