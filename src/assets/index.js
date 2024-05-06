@@ -22,6 +22,7 @@ import typescript from "./tech/typescript.png";
 import flutter from "./tech/flutter.png";
 
 import meta from "./company/meta.png";
+import eeze from "./company/eeze.png";
 import unix from "./company/unix.svg";
 import upwork from "./company/upwork.png";
 import tesla from "./company/tesla.png";
@@ -67,4 +68,5 @@ export {
   metameet,
   github_finder,
   feedback,
+    eeze
 };

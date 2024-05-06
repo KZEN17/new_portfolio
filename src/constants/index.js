@@ -23,6 +23,7 @@ import {
   metameet,
   github_finder,
   feedback,
+    eeze
 } from "../assets";
 
 export const navLinks = [
@@ -110,7 +111,7 @@ const experiences = [
   {
     title: "Frontend Software Engineer",
     company_name: "Eeze Gaming",
-    icon: reactjs,
+    icon: eeze,
     iconBg: "#E6DEDD",
     date: "March 2018 - Present",
     points: [
