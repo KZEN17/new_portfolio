@@ -113,7 +113,7 @@ const experiences = [
     company_name: "Eeze Gaming",
     icon: eeze,
     iconBg: "#E6DEDD",
-    date: "March 2018 - Present",
+    date: "August 2023 - Present",
     points: [
       "Developing and maintaining web applications using React.js, Vite, Typescript and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
